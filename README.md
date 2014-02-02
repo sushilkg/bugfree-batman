@@ -10,5 +10,3 @@ Installation & Use
 * Run errors_latest.py.
 
 To get this done automatically every week, please use crontab, http://stackoverflow.com/questions/4460262/running-a-python-script-with-cron.
-
-Note: No bashing please, I just started learning Python. :)
