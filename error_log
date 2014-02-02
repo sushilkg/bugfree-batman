@@ -1,0 +1,7 @@
+[08-Jan-2014 07:28:04 America/Chicago] PHP Warning:  require_once(connections/connection.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/me/public_html/miscellaneous.php on line 1
+[08-Jan-2014 07:28:02 America/Chicago] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'me_username'@'localhost' (using password: YES) in /home/me/public_html/connections/connection.php on line 9
+[08-Jan-2014 07:21:04 America/Chicago] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'me_username'@'localhost' (using password: YES) in /home/me/public_html/connections/connection.php on line 9
+[08-Jun-2013 09:54:16 America/Chicago] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home/me/public_html/summary.php on line 76
+[08-Jan-2014 07:28:02 America/Chicago] PHP Warning: sdfgs preg_replace() expects at least 3 parameters, 2 given in /home/me/public_html/summary.php on line 82
+[08-Jan-2014 07:28:06 America/Chicago] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home/me/public_html/summary.php on line 82
+[08-Jan-2014 07:28:04 America/Chicago] PHP Warning:  new error on same date preg_replace() expects at least 3 parameters, 2 given in /home/me/public_html/summary.php on line 82
