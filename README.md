@@ -9,6 +9,6 @@ Installation & Use
 * Modify errors_send.py to recieve concatinated errors in your gmail.
 * Run errors_latest.py.
 
-To get this done automatically every week, please use crontab. Refer to http://stackoverflow.com/questions/4460262/running-a-python-script-with-cron.
+To get this done automatically every week, please use crontab, http://stackoverflow.com/questions/4460262/running-a-python-script-with-cron.
 
-Note: No bashing please, I just started to learn Python. :)
+Note: No bashing please, I just started learning Python. :)
